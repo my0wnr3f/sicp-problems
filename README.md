@@ -1,2 +1,2 @@
 # sicp-problems
-Here i solve problems from SICP
+Here i'm solving problems from SICP
